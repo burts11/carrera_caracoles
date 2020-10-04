@@ -36,7 +36,7 @@
 #carrera{
     top: 150px;
     width: 1200px;
-    height: 600px;
+    height: 480px;
     border-style:   solid;
  
     border-color: red;
@@ -54,8 +54,8 @@
 }
 #podio{
     position: absolute;
-    width: 17%;
-    height: 30%;
+    width: 250px;
+    height: 230px;
     top: 15%;
     background-color:    aquamarine;
     color:  black;
